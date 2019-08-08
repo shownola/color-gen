@@ -16,7 +16,7 @@ class Palette extends Component {
   }
   changeLevel(level){
     this.setState({ level });
-  
+
   }
   changeFormat(val){
     this.setState({ format: val });
@@ -29,7 +29,7 @@ class Palette extends Component {
     name={color.name}
     key={color.id}
     moreUrl={`/palette/${id}/${color.id}`}
-    showLink={true}
+    showingFullPalette
     /> ));
 
     return (
