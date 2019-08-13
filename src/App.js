@@ -33,7 +33,7 @@ class App extends Component {
     );
   }
   savePalette(newPalette){
-    console.log(newPalette);
+    //console.log(newPalette);
     this.setState({palettes: [...this.state.palettes, newPalette]},
     this.syncLocalStorage
     );
@@ -43,7 +43,7 @@ class App extends Component {
     window.localStorage.setItem("palettes", JSON.stringify(this.state.palettes));
   }
   render(){
-    console.log(generatePalette(seedColors[4]));
+    //console.log(generatePalette(seedColors[4]));
     return (
       //<Switch>
 
