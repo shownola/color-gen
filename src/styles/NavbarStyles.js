@@ -21,8 +21,14 @@ export default {
       color: "black"
     },
     [sizes.down('xs')]: {
-      display: 'none'
+      fontSize: '8',
+      marginRight: 0,
+      padding: 0
+      // display: 'none'
     }
+  },
+  nspan: {
+    paddingLeft: '2rem'
   },
   slider: {
     width: "340px",
