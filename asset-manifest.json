@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/color-gen/static/css/main.64c7fd01.chunk.css",
+    "main.js": "/color-gen/static/js/main.747a7277.chunk.js",
+    "main.js.map": "/color-gen/static/js/main.747a7277.chunk.js.map",
+    "runtime~main.js": "/color-gen/static/js/runtime~main.e0bb0528.js",
+    "runtime~main.js.map": "/color-gen/static/js/runtime~main.e0bb0528.js.map",
+    "static/css/2.e337d257.chunk.css": "/color-gen/static/css/2.e337d257.chunk.css",
+    "static/js/2.8d451c6e.chunk.js": "/color-gen/static/js/2.8d451c6e.chunk.js",
+    "static/js/2.8d451c6e.chunk.js.map": "/color-gen/static/js/2.8d451c6e.chunk.js.map",
+    "index.html": "/color-gen/index.html",
+    "precache-manifest.2187ba3a35854f65865b8810b1a8e8f2.js": "/color-gen/precache-manifest.2187ba3a35854f65865b8810b1a8e8f2.js",
+    "service-worker.js": "/color-gen/service-worker.js",
+    "static/css/2.e337d257.chunk.css.map": "/color-gen/static/css/2.e337d257.chunk.css.map",
+    "static/css/main.64c7fd01.chunk.css.map": "/color-gen/static/css/main.64c7fd01.chunk.css.map",
+    "static/media/bg.svg": "/color-gen/static/media/bg.a1cf6798.svg"
+  }
+}
